@@ -1,0 +1,121 @@
+Sat Jun  3 18:58:02 2023 [App] [DEBUG] Debug message
+Sat Jun  3 18:58:02 2023 [App] [INFO] Info message
+Sat Jun  3 18:58:02 2023 [App] [WARNING] Warning message
+Sat Jun  3 18:58:02 2023 [App] [ERROR] Error message
+Sat Jun  3 18:58:02 2023 [App] [FATAL] Fatal message
+Sat Jun  3 19:24:01 2023 [App] [DEBUG] Value is: {} 10
+Sat Jun  3 19:24:01 2023 [App] [INFO] Values are: {}, {} 1 hello
+Sat Jun  3 19:26:56 2023 [App] [INFO] Values are: {}, {} 1 hello
+Sat Jun  3 19:26:56 2023 [App] [INFO] a = %d 9
+Sat Jun  3 19:26:56 2023 [App] [INFO] a = %d 8
+Sat Jun  3 19:26:56 2023 [App] [INFO] a = %d 7
+Sat Jun  3 19:26:56 2023 [App] [INFO] a = %d 6
+Sat Jun  3 19:26:56 2023 [App] [INFO] a = %d 5
+Sat Jun  3 19:26:56 2023 [App] [INFO] a = %d 4
+Sat Jun  3 19:26:56 2023 [App] [INFO] a = %d 3
+Sat Jun  3 19:26:56 2023 [App] [INFO] a = %d 2
+Sat Jun  3 19:26:56 2023 [App] [INFO] a = %d 1
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] b =  9
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] b =  8
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] b =  7
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] b =  6
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] b =  5
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] b =  4
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] b =  3
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] b =  2
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] b =  1
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:46:00 2023 [LINUX] [INFO] b =  0
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] b =  9
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] b =  8
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] b =  7
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] b =  6
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] b =  5
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] b =  4
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] b =  3
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] b =  2
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] b =  1
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] b =  0
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] a =  1
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] a =  2
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] a =  3
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] a =  4
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] a =  5
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] a =  6
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] a =  7
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] a =  8
+Sat Jun  3 19:47:44 2023 [LINUX] [INFO] a =  9
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] a =  0
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] b =  9
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] b =  8
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] b =  7
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] b =  6
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] b =  5
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] b =  4
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] b =  3
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] b =  2
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] b =  1
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] b =  0
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] a =  1
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] a =  2
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] a =  3
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] a =  4
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] a =  5
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] a =  6
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] a =  7
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] a =  8
+Sat Jun  3 19:48:38 2023 [LINUX] [INFO] a =  9
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] a = 0
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] b = 9
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] b = 8
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] b = 7
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] b = 6
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] b = 5
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] b = 4
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] b = 3
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] b = 2
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] b = 1
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] b = 0
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] a = 1
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] a = 2
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] a = 3
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] a = 4
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] a = 5
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] a = 6
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] a = 7
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] a = 8
+Sat Jun  3 19:48:45 2023 [LINUX] [INFO] a = 9
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] a = 0 dahdk 10 daldj
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] b = 9
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] b = 8
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] b = 7
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] b = 6
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] b = 5
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] b = 4
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] b = 3
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] b = 2
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] b = 1
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] b = 0
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] a = 1 dahdk 10 daldj
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] a = 2 dahdk 10 daldj
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] a = 3 dahdk 10 daldj
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] a = 4 dahdk 10 daldj
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] a = 5 dahdk 10 daldj
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] a = 6 dahdk 10 daldj
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] a = 7 dahdk 10 daldj
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] a = 8 dahdk 10 daldj
+Sat Jun  3 19:49:33 2023 [LINUX] [INFO] a = 9 dahdk 10 daldj
+[2023-06-04 12:45:29] DEBUG: This is a debug message with value: debug
+[2023-06-04 12:45:29] INFO: This is an info message
+[2023-06-04 12:45:29] WARNING: This is a warning message
+[2023-06-04 12:45:29] ERROR: This is an error message

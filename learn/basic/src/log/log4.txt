@@ -1,0 +1,12 @@
+[2023-06-04 13:16:03] DEBUG: This is a debug42 message with value: debug
+[2023-06-04 13:16:03] INFO: This is an info message
+[2023-06-04 13:16:03] WARNING: This is a warning message
+[2023-06-04 13:16:03] ERROR: This is an error message
+[2023-06-04 13:16:47] DEBUG: This is a debug42 message with value: debug
+[2023-06-04 13:16:47] INFO: This is an info message
+[2023-06-04 13:16:47] WARNING: This is a warning message
+[2023-06-04 13:16:47] ERROR: This is an error message
+[2023-06-04 13:17:34] DEBUG: debug42,debug
+[2023-06-04 13:17:34] INFO: This is an info message
+[2023-06-04 13:17:34] WARNING: This is a warning message
+[2023-06-04 13:17:34] ERROR: This is an error message
