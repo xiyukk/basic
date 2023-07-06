@@ -1,4 +1,4 @@
-#include "../../include/callback.h"
+#include "/home/tian/basic/learn/common/c/include/callback.h"
 // 测试程序
 int main()
 {
