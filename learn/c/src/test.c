@@ -6,7 +6,7 @@ int pt = 2;
 
 int a = 4;
 int b = 4;
-
+// test git home.
 int main()
 {
     if (pr = 1)
