@@ -92,7 +92,7 @@ int main() {
     analyze_memory_leaks();
 
     // Clean up remaining allocation records
-    // my_free(arr2);
+    my_free(arr2);
 
     return 0;
 }
