@@ -88,7 +88,7 @@ char *read_line(FILE *file)
 {
     char *line = NULL;
     size_t line_size = 0;
-    ssize_t bytes_read = getline(&line, &line_size, file);
+    size_t bytes_read = getline(&line, &line_size, file);
     if (bytes_read == -1)
     {
         // 处理读取文件失败的情况，并输出错误信息

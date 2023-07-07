@@ -66,5 +66,4 @@ void TestTimerLog()
 int main()
 {
     void TestTimerLog();
-    std::chrono::duration
 }
