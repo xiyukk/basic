@@ -63,7 +63,10 @@
         "shared_mutex": "cpp",
         "queue": "cpp",
         "future": "cpp",
-        "forward_list": "cpp"
+        "forward_list": "cpp",
+        "time.h": "c",
+        "stdio.h": "c",
+        "unistd.h": "c"
     },
     "remoteX11.display": 0,
     "commentTranslate.source": "Bing",
