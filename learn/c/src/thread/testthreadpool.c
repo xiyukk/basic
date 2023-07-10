@@ -11,7 +11,7 @@ sem_t semaphore;
 int main() {
     pthread_t threads[MAX_THREADS];
     sem_init(&semaphore, 0, 0);
-    printf("-----------------------------------------------------\n");
+    // printf("-----------------------------------------------------\n");
 
     // 创建线程
     for(int i = 0; i < MAX_THREADS; i++) {
