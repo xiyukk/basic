@@ -4,7 +4,10 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/usr/include/opencv2"
+                "/usr/include/opencv2",
+                "${workspaceFolder}/learn/common/*",
+                "${workspaceFolder}/learn/common/resource/*",
+                "${workspaceFolder}/learn/common/*/include/*"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",

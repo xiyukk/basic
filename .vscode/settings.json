@@ -67,7 +67,9 @@
         "time.h": "c",
         "stdio.h": "c",
         "unistd.h": "c",
-        "regex.h": "c"
+        "regex.h": "c",
+        "variant": "cpp",
+        "*.png": "cpp"
     },
     "remoteX11.display": 0,
     "commentTranslate.source": "Bing",
