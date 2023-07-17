@@ -70,6 +70,8 @@
         "regex.h": "c",
         "variant": "cpp",
         "*.png": "cpp",
+        "*.json": "cpp",
+        "*.so": "cpp",
         "*.js": "cpp"
     },
     "remoteX11.display": 0,
