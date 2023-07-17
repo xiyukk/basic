@@ -1,8 +1,9 @@
 #include <iostream>
 #include <memory>
-// #include "l_queue.h"
-// #include "pic/yang.png"
-// #include "pic/123.png"
+#include "l_queue.h"
+#include "log3.h"
+#include "pic/yang.png"
+#include "123.png"
 class s_smartpoint
 {
 private:
