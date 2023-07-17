@@ -4,7 +4,7 @@
 CC = gcc
 
 # Compiler flags
-CFLAGS = -Wall -Wextra -std=c99 -D_POSIX_C_SOURCE=200809L
+CFLAGS = -Wall -Wextra -std=c99 -D_POSIX_C_SOURCE=200809L -g
 
 # Source and build directories
 SRC_DIR = src

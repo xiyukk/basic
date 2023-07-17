@@ -69,7 +69,9 @@
         "unistd.h": "c",
         "regex.h": "c",
         "variant": "cpp",
-        "*.png": "cpp"
+        "*.png": "cpp",
+        "*.json": "cpp",
+        "*.so": "cpp"
     },
     "remoteX11.display": 0,
     "commentTranslate.source": "Bing",
